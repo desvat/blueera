@@ -1,0 +1,15 @@
+#adminmenu div.wp-menu-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+#adminmenu div.wp-menu-image img {
+  width: 60%;
+  height: auto;
+  padding: 4px 0 0 0;
+}
+
+th.column-post_id_clmn {
+  width: 100px;
+}
